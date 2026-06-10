@@ -31,7 +31,7 @@ export const About = () => {
                 <div className="stat-label">Graduation Year</div>
               </div>
               <div className="stat-card glass-card">
-                <div className="stat-value text-violet">8.5/10</div>
+                <div className="stat-value text-violet">7.5/10</div>
                 <div className="stat-label">B.Tech SGPA</div>
               </div>
               <div className="stat-card glass-card">
