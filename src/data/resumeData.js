@@ -62,7 +62,7 @@ export const resumeData = {
       id: "exp-1",
       role: "Software Development Intern",
       company: "Axess Group",
-      location: "Dubai, UAE (Remote)",
+      location: "Dubai, UAE",
       period: "August 2025 - September 2025",
       bullets: [
         "Developed an Inventory Management System for efficient asset tracking using QR-based identification and certificate management.",
